@@ -19,7 +19,7 @@ Although web scraping can be done manually, in most cases, automated tools are p
 
 <b>This application</b> is built to execute automatically a process of web scraping from a given website. In this case, we have chosen the website of Portal Job which you can find by clicking <a href="https://www.portaljob-madagascar.com/">here</a>.
 
-It is a free android application that you can use whenever you want to extract information from the Portal Job's site. You just need to <b>install</b> it and then you can enjoy your web scraping experiance !
+It is a free android application that you can use whenever you want to extract information from the Portal Job's site. You just need to <b>install</b> it and then you can enjoy your web scraping experience !
 
 ## The application 
 
