@@ -23,9 +23,9 @@ It is a free android application that you can use whenever you want to extract i
 
 ## The application 
 
-* Click here to access the file
+* Click here to access the application file
 
-<a href="#">File</a>
+<a href="https://github.com/Tiantsoa79/Webscraping/tree/main/File">Application file</a>
 
 * Click here to access the source code
 
