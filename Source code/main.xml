@@ -1,0 +1,69 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<TextView
+		android:id="@+id/textview1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="This is a web scraping application"
+		android:textSize="20sp"
+		android:textStyle="bold"
+		android:textColor="#311B92"
+		android:translationX="20.0dp"
+		android:translationY="300.0dp" />
+	<Button
+		android:id="@+id/button1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:background="#8BC34A"
+		android:text="scrap"
+		android:textSize="18sp"
+		android:textColor="#FFFFFF"
+		android:translationX="135.0dp"
+		android:translationY="500.0dp" />
+	<ImageView
+		android:id="@+id/imageview1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:src="@drawable/scraping"
+		android:scaleType="center"
+		android:translationY="-100.0dp" />
+	<TextView
+		android:id="@+id/textview2"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Made by Tiantsoa (STD21079)"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		android:translationX="90.0dp"
+		android:translationY="250.0dp" />
+	<TextView
+		android:id="@+id/textview4"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text=" website &quot;Portal Job&quot;(https://www.portaljob-madagascar.com/emploi/liste)\n\nEnjoy ! "
+		android:textSize="12sp"
+		android:textStyle="bold|italic"
+		android:textColor="#000000"
+		android:translationX="5.0dp"
+		android:translationY="28.0dp" />
+	<TextView
+		android:id="@+id/textview3"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Web scraping is a technique used to extract information from web pages. In this application, we will extract information from the"
+		android:textSize="12sp"
+		android:textStyle="bold|italic"
+		android:textColor="#000000"
+		android:lines="2"
+		android:translationY="-78.0dp" />
+</LinearLayout>
